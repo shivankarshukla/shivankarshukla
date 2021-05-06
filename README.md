@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 there, I'm Shivankar Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![](https://komarev.com/ghpvc/?username=ershresth&color=blue)
+![](https://komarev.com/ghpvc/?username=shivankarshukla&color=blue)
 <!-- [![Website](https://img.shields.io/website?label=ershresth.in&style=for-the-badge&url=https%3A%2F%ershresth.in)](https://ershresth.github.io) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/ershresth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ershresth?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/beingshivankar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/beingshivankar?ref_src=twsrc%5Etfw)
 
 ## I'm a Developer and a Student!
 
@@ -23,11 +23,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ershresth" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ershresth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ershresth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ershresth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ershresth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shivankarshukla" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shivankarshukla | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="shivankarshukla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="shivankarshukla| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shivankarshukla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -58,12 +58,12 @@
   <summary>:zap: Github Stats</summary>
   
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ershresth&show_icons=true&locale=en&layout=compact" alt="ershresth" /></p>
-  <img align="left" alt="ershresth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ershresth&show_icons=true&hide_border=true" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ershresth&" alt="ershresth" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivankarshukla&show_icons=true&locale=en&layout=compact" alt="shivankarshukla" /></p>
+  <img align="left" alt="shivankarshukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivankarshukla&show_icons=true&hide_border=true" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivankarshukla&" alt="shivankarshukla" /></p>
 
-[website]: https://ershresth.github.io
-[twitter]: https://twitter.com/AgarwalJiii
+[website]: https://ershresth.github
+[twitter]: https://twitter.com/Agarwal
 [youtube]: https://youtube.com/codei1
-[instagram]: https://instagram.com/shresth__agarwal
-[linkedin]: https://linkedin.com/i/sumit
+[instagram]: https://instagram.com/shresth_arwal
+[linkedin]: https://linkedin.com/i/sumi
